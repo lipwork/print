@@ -3,6 +3,9 @@
 LINE 貼圖聲明：與本設計相關之貼圖已於2026年2月 LINE Store 正式上架販售。該貼圖之版權所有，受法律保護，嚴禁任何形式的侵權行為。
 
 English Version
-The Spring Festival Couplet PDF files(horsesticker-8.pdf) provided in this repository are available for personal, non-commercial use only (e.g., personal printing, gifting to friends and family).
-Prohibitions: Any form of commercial use, resale, or redistribution of these files or their design elements for profit is strictly prohibited without explicit authorization from the author.
-LINE Stickers Notice: The stickers featuring these designs are officially available on the LINE Store. All copyrights for the stickers are reserved and protected by law. Any unauthorized use or infringement is strictly prohibited.
+
+Free for Printing:The Spring Festival Couplet PDF files(horsesticker-8.pdf) provided in this repository are available for personal, non-commercial use only (e.g., personal printing, gifting to friends and family).
+
+No Commercial Use: Any form of commercial use, resale, or redistribution of these files or their design elements for profit is strictly prohibited without explicit authorization from the author.
+
+LINE Stickers Copyright: The stickers featuring these designs are officially available on the LINE Store. All copyrights for the stickers are reserved and protected by law. Any unauthorized use or infringement is strictly prohibited.
